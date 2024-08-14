@@ -6,4 +6,4 @@ Formatted scam domains list provided [scamsniffer](https://github.com/scamsniffe
 - ### [AntiScam-Squad](https://github.com/AntiScam-Squad/pi-hole)
     - crypto_scam.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/crypto_scam.txt
     
-    - 7day_NRD.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/7day_NRD.txt
+    - 7day_NRD.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/7day_NRD.txtWed Aug 14 03:00:01 PM +00 2024
