@@ -1,4 +1,5 @@
-scamsniffer.txt - formatted scam domains list provided [scamsniffer](https://github.com/scamsniffer/scam-database) to be used in ublock like extention
+Formatted scam domains list provided [scamsniffer](https://github.com/scamsniffer/scam-database) to be used in ublock like extention
+- scamsniffer.txt - https://raw.githubusercontent.com/lulz-code/web3-scam-domains-lists/main/scamsniffer.txt
 
 
 ## Similar lists, check date, mb outdated
